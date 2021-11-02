@@ -1,0 +1,8 @@
+No	Name	Sex	Blood	Grade	Height	Study	Success	MultiLabel
+1	Tom	M	O	56	160	Math	yes	High
+2	Harry	M	A	76	192	Math	no	Low
+3	John	M	A	45	178	English	no	Medium
+4	Nancy	F	B	78	157	Biology	yes	High
+5	Mike	M	O	79	167	Math	no	Low
+6	Kate	F	AB	66	156	English	yes	Medium
+7	Mary	F	O	99	166	Science	yes	High
